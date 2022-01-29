@@ -2,10 +2,10 @@
 
 The file dataset.mat file contains sets of data from the Solar Cooling Plant (SCP) at the University of Seville. This data is used to train machine learning algorithm for the fault detection and prediction in the plant. The sets are the following:
 
-SIMULATED DATA		DATE: D/M/A
-D1_05_07_2016 % TRAIN	%05/07/2016
-D2_25_08_2016 % CHECK	%25/07/2016
-D3_31_08_2016 % TRAIN	%31/07/2016
+SIMULATED DATA		DATE: D/M/A;
+D1_05_07_2016 % TRAIN	%05/07/2016;
+D2_25_08_2016 % CHECK	%25/07/2016\\
+D3_31_08_2016 % TRAIN	%31/07/2016\\
 D4_07_08_2016 % CHECK	%07/08/2016
 D5_12_08_2016 % VALID	%12/08/2016
 D6_15_08_2016 % CHECK	%15/08/2016
